@@ -6,4 +6,5 @@ temp/
 
 .DS_Store
 
+# ignore ALL .log files
 *.txt
